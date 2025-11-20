@@ -7,6 +7,38 @@
 * É amplamente utilizado no mercado, desde projetos open source até grandes corporações.
 * Possui uma comunidade extremamente ativa: muitos projetos famosos, bibliotecas e frameworks que utilizamos no dia a dia estão mantidos dentro do GitHub.
 
+## Termos
+
+* **Issues (Problemas):** \
+    Rastreamento de tarefas, melhorias ou bugs em um repositório.
+
+* **Wiki:** \
+    Páginas de documentação associadas a um repositório.
+
+* **Actions:** \
+    Automação configurada no GitHub para executar tarefas, testes ou implantações.
+
+* **GitHub Pages:** \
+    Serviço que hospeda sites diretamente a partir do seu repositório.
+
+* **Collaborator (Colaborador):** \
+    Uma pessoa que tem permissão para contribuir diretamente para um repositório.
+
+* **Organization (Organização):** \
+    Uma conta no GitHub que pode conter vários repositórios e membros.
+
+* **Gist:** \
+    Repositório Git mínimo, geralmente usado para compartilhar pedaços de código.
+
+* **Code Review (Revisão de Código):** \
+    Avaliação de código por outros membros da equipe para melhorar a qualidade e identificar possíveis problemas.
+
+* **Dependency:** \
+    Uma biblioteca ou pacote em que seu projeto depende.
+
+* **Contributing Guidelines (Diretrizes de Contribuição):** \
+    Instruções sobre como contribuir para um projeto específico.
+
 ## Diferença entre Git e GitHub
 
 | Git | GitHub |
