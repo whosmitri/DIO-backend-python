@@ -1,0 +1,4 @@
+[2025-12-28 16:11:22] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: ('dmitri calle'), ('123')>],) e {}. Retornou None
+[2025-12-28 16:11:30] Função 'criar_conta' executada com argumentos (1, [<PessoaFisica: ('dmitri calle'), ('123')>], [<__main__.ContaCorrente object at 0x0000028E14BDFB60>]) e {}. Retornou None
+[2025-12-28 16:12:02] Função 'depositar' executada com argumentos ([<PessoaFisica: ('dmitri calle'), ('123')>],) e {}. Retornou None
+[2025-12-28 16:12:21] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('dmitri calle'), ('123')>],) e {}. Retornou None
